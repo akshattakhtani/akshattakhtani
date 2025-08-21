@@ -95,7 +95,7 @@ CNN model to classify potato leaf images (Healthy, Early Blight, Late Blight) wi
 ### 🗂️ Quick Links
 
 * 🧾 **Resume:** [Akshat's Resume](https://github.com/akshattakhtani/my_resume/blob/main/Resume_Akshat_Takhtani_DS.pdf)
-* 🌐 **Portfolio:** add when ready
+* 🌐 **Portfolio:** 
 * 💌 **Email:** [akshattakhtani13@gmail.com](mailto:akshattakhtani13@gmail.com)
 * 💼 **LinkedIn:** [https://www.linkedin.com/in/akshattakhtani](https://www.linkedin.com/in/akshattakhtani)
 
