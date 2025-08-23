@@ -11,7 +11,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/akshat-takhtani"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-akshattakhtani-0A66C2?logo=linkedin"></a>
   <a href="mailto:akshattakhtani13@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-akshattakhtani13%40gmail.com-D14836?logo=gmail&logoColor=white"></a>
-  <a href="https://github.com/akshattakhtani13"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-akshattakhtani13-181717?logo=github"></a>
+  <a href="https://github.com/akshattakhtani"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-akshattakhtani-181717?logo=github"></a>
   <!-- Optional: replace with your portfolio when ready -->
   <!-- <a href="https://your-portfolio.link"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-Online-14b8a6?logo=vercel&logoColor=white"></a> -->
 </p>
