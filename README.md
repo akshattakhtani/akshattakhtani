@@ -49,7 +49,7 @@ Generate personalized cold emails for services businesses using local/hosted LLM
 * Export to clipboard/markdown
 
 <p>
-  <a href="https://github.com/akshattakhtani13/cold-email-generator"><img src="https://img.shields.io/badge/Repo-Cold%20Email%20Generator-242938?logo=github" /></a>
+  <a href="https://github.com/akshattakhtani/cold-email-generator"><img src="https://img.shields.io/badge/Repo-Cold%20Email%20Generator-242938?logo=github" /></a>
   <!-- <a href="#"><img src="https://img.shields.io/badge/Demo-Live-22c55e?logo=streamlit" /></a> -->
 </p>
 
@@ -60,7 +60,7 @@ Generate personalized cold emails for services businesses using local/hosted LLM
 CNN model to classify potato leaf images (Healthy, Early Blight, Late Blight) with preprocessing (resize/normalize/augment) and clear training metrics.
 
 <p>
-  <a href="https://github.com/akshattakhtani13/potato-disease-classification"><img src="https://img.shields.io/badge/Repo-Potato%20Disease%20CNN-242938?logo=github" /></a>
+  <a href="https://github.com/akshattakhtani/potato-disease-classification"><img src="https://img.shields.io/badge/Repo-Potato%20Disease%20CNN-242938?logo=github" /></a>
 </p>
 
 ---
